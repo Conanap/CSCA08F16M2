@@ -9,4 +9,3 @@ def func2(a);
 print(a) # [1,0,3]
 print(func2(a)) #[1,4,3]
 print(a)#[1,0,3]
-
