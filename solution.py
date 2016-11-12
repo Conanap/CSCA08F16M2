@@ -24,4 +24,4 @@ if(__name__ == '__main__'):
         for next_word in next_line_words:
             result += pig_latin(next_word) + ' '
         print(result)
-    test_file.cose()
+    test_file.close()
